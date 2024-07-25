@@ -1,3 +1,5 @@
+[A Formulation of the Trilemma in Proof of Work Blockchain](https://ieeexplore.ieee.org/document/10549891) 読後の所感的なの。
+
 ## トリレンマの式について
 
 意味あるか分からないけど、論文の内容に加えて以下くらいは言えるはず。
